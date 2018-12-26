@@ -1,0 +1,11 @@
+Today I decided to finally take on Titanic dataset and apply some algorithms from sklearn on it.
+Till today I had thought applying machine learning was the most important and difficult task to do, and hence had been focusing on it. But by the end of the day I realised how wrong I had been. I had read on various platforms and articles/blogs how data pre-processing was most important and crucial and underrated task, but came to realise it only today.
+
+I achieved my target of applying 5 algorithms by myself on the dataset to achieve the hgihest accuracy of 82%. The accuracy is less considering accuracies of ~97% have been achieved on it.
+My approach is available on: https://github.com/ShreyaGupta08/ML-Algorithms-on-Kaggle-Titanic-Dataset
+
+Lesson learnt: Don't underestimate the process of data pre-processing
+
+Realisation: Using sklearn didn't bring me any joy or "the feel" for which I started doing machine learning in the first place. So I will continue learning these algorithms in depth as I have tried to in the past.
+
+For tomorrow: Look at approaches tried by other people using the tutorial provided on the kaggle website. 
